@@ -1,0 +1,8 @@
+
+streamlit>=1.41,<2.0
+yfinance>=0.2.50,<2.0
+pandas>=2.2,<4.0
+numpy>=1.26,<3.0
+requests>=2.32,<3.0
+feedparser>=6.0,<7.0
+Pillow>=11.0,<13.0
